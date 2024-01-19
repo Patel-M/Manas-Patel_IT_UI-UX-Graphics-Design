@@ -6,5 +6,5 @@ Color convention:
 - White: Ideal color of aircraft
 - Yellow (In the logo): symbolizes purity and happiness
 
-Initial release will have two language support - English and Hindi
+Initial release will have two language support - English and Hindi.
 Later releases can be updated with more regional languages for making it more user-friendly
